@@ -1,0 +1,6 @@
+@trespasse_proj.api_HostAddress = http://localhost:5239
+
+GET {{trespasse_proj.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
